@@ -1,0 +1,8 @@
+_images
+_sources
+_static
+_build
+make.bat
+Makefile
+index.rst
+conf.py
