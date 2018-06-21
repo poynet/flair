@@ -12,8 +12,9 @@ du diamètre de la roue.
 Le bras de levier ne peut pas être plus grand que le rayon de la roue, l'efficacité est donc limitée 
 étant définie par le diamètre de la roue.
 
-.. image :: ./IMG/front_wheels/fw_up.png
-    :width: 250px
 
 .. image :: ./IMG/front_wheels/fw_down.png
-    :width: 250px
+    :width: 250pt
+
+.. image :: ./IMG/front_wheels/fw_up.png
+    :width: 250pt
