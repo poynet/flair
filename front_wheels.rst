@@ -14,7 +14,7 @@ Le bras de levier ne peut pas être plus grand que le rayon de la roue, l'effica
 
 
 .. image :: ./IMG/front_wheels/fw_down.png
-    :width: 250pt
+    :width: 50%
 
 .. image :: ./IMG/front_wheels/fw_up.png
-    :width: 250pt
+    :width: 50%
