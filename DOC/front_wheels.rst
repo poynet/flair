@@ -46,3 +46,4 @@ limitée, étant fonction du diamètre de la roue.
 
 .. image :: ./IMG/suspension/small_wheel_3.png
     :width: 45%
+
