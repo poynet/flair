@@ -4,5 +4,4 @@ _static
 _build
 make.bat
 Makefile
-index.rst
 conf.py
