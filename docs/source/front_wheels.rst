@@ -18,11 +18,23 @@ limitée, étant fonction du diamètre de la roue.
 
 |
 
-.. image :: ../IMG/front_wheels/fw_down.png
-    :width: 45%
+.. image :: ../IMG/suspension/actual_system_1_R.png
+    :width: 30%
 
-.. image :: ../IMG/front_wheels/fw_up.png
-    :width: 45%
+.. image :: ../IMG/suspension/actual_system_2_R.png
+    :width: 30%
+
+.. image :: ../IMG/suspension/actual_system_3_R.png
+    :width: 30%
+
+.. image :: ../IMG/suspension/actual_system_4_R.png
+    :width: 30%
+
+.. image :: ../IMG/suspension/actual_system_5.JPG
+    :width: 30%
+
+.. image :: ../IMG/suspension/actual_system_6_R.JPG
+    :width: 30%
 
 |
 
