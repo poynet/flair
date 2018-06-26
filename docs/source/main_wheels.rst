@@ -43,10 +43,10 @@ limitée, étant fonction du diamètre de la roue.
 
 # Solution envisagée
 --------------------
-| **Décaler le bras de levier sur le côté de la structure**
-| *Attention à bien prendre en compte les efforts latéraux et mettre en place un bridage.*
+| **Déporter le bras de levier sur le côté de la structure**
+| *Prise en compte des efforts latéraux en X et mise en place d'un bridage.*
 
-- Une plaque de bridage, soudée à la structure, avec une glissière qui contraint le bras de levier en Y
+- Une plaque de bridage, soudée à la structure, avec une glissière qui contraint le bras de levier en X
 - L'élastique est aussi maintenu en amont, la plaque / l'ergot de maintient l'empêche de glisser vers l'arrière
 
 
