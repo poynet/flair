@@ -30,7 +30,7 @@ limitée, étant fonction du diamètre de la roue.
 .. image :: ../IMG/suspension/actual_system_4_R.png
     :width: 30%
 
-.. image :: ../IMG/suspension/actual_system_5.JPG
+.. image :: ../IMG/suspension/actual_system_5.jpg
     :width: 30%
 
 .. image :: ../IMG/suspension/actual_system_6_R.JPG
