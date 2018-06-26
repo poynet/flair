@@ -18,10 +18,10 @@ limitée, étant fonction du diamètre de la roue.
 
 |
 
-.. image :: ./IMG/front_wheels/fw_down.png
+.. image :: ../IMG/front_wheels/fw_down.png
     :width: 45%
 
-.. image :: ./IMG/front_wheels/fw_up.png
+.. image :: ../IMG/front_wheels/fw_up.png
     :width: 45%
 
 |
@@ -38,12 +38,12 @@ limitée, étant fonction du diamètre de la roue.
 - L'élastique est aussi maintenu en amont, la plaque / l'ergot de maintient l'empêche de glisser vers l'arrière
 
 
-.. image :: ./IMG/suspension/small_wheel_1.png
+.. image :: ../IMG/suspension/small_wheel_1.png
     :width: 45%
 
-.. image :: ./IMG/suspension/small_wheel_2.png
+.. image :: ../IMG/suspension/small_wheel_2.png
     :width: 45%
 
-.. image :: ./IMG/suspension/small_wheel_3.png
+.. image :: ../IMG/suspension/small_wheel_3.png
     :width: 45%
 

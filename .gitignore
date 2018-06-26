@@ -1,7 +1,2 @@
-_images
-_sources
-_static
-_build
-make.bat
-Makefile
-conf.py
+_*
+.vscode
