@@ -4,7 +4,8 @@
 Début de documentation pour mettre par écrit quelques idées, concepts et captures d'écran ou autres photos.  
 
 ## # Autobuild avec Sphinx
-$ sphinx-autobuild docs _build/html
+cd /c/Users/ZIN/Dropbox/FLAIR_2018/DOCS
+sphinx-autobuild docs _build/html
 http://127.0.0.1:8000
 
 ## # Docs
