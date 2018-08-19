@@ -20,8 +20,8 @@ FLAIR's documentation
 
 .. toctree:: 
    :maxdepth: 0
-
-   source/history
+history
+   source/
 
    
 .. toctree::
@@ -30,4 +30,5 @@ FLAIR's documentation
    source/main_wheels
    source/free_wheel
    source/seat
+   source/materials
 
